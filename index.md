@@ -1,14 +1,14 @@
 
-### Mir Mohammad Kamali
-<a href="http://uupload.ir/view/rnde_mohammad.jpg" target="_blank"><img src="http://uupload.ir/files/rnde_mohammad_thumb.jpg" border="0" alt="آپلود عکس" /></a>
+### Anahita Taheri
+<a/></a>
 
 ### Personal informations
 
 ---
-+ name: Mir mohammad
-+ last name : kamali
-+ Date of birth : 1999/April/10
-+ I am a trader and Computer engineering student
++ name: Anahita
++ last name : Taheri
++ Date of birth : 1979/November/29
++ I am a trader and IT engineering student
 + location : Tehran , I.R.Iran
 
 
@@ -16,39 +16,39 @@
 
 ---
 + trade on Tehran Stock Exchange and Forex
-+ Programming
-+ playing games on best leagues
++ translating
++ 
 
 ### Education
 
 ---
-+ Diploma : Shahid Dr.Chamran school
-_ 2015
-+ Bachelor of science : computer Engineering
-_ 2018,payam Noor University of Rey 
++ Diploma : Aeen Tarbiat high school
+_ 
++ Bachelor of science : IT Engineering
+_ payam Noor University of North 
 
 ### language
 
 ---
 + Persian
-+ Turkish(Istanbul)
-+ Azeri
 + English
++ 
++ 
 
 ### Favorites
 
 ---
 + Trade
-+ ping-pong
++ Studing historical books
 + travel 
-+ playing video games
++ playing volleyball
 
 ### working Experience
 
 ---
-+ I am working in Mofid Brokerage .
++ I am working in Caltural,Turism & Hanicrafts Organization.
 
-### [contact with me](https://web.telegram.org/#/im?p=@M7M_K)
+###
 
 
 --- 
