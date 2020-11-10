@@ -17,7 +17,7 @@
 ---
 + trade on Tehran Stock Exchange and Forex
 + translating
-+ 
+
 
 ### Education
 
@@ -32,8 +32,6 @@ _ payam Noor University of North
 ---
 + Persian
 + English
-+ 
-+ 
 
 ### Favorites
 
@@ -46,7 +44,7 @@ _ payam Noor University of North
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Hanicrafts Organization.
++ I am working in Caltural,Turism & Hanicrafts Minister.
 
 ###
 
