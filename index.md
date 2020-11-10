@@ -23,7 +23,6 @@
 
 ---
 + Diploma : Aeen Tarbiat high school
-_ 
 + Bachelor of science : IT Engineering
 _ payam Noor University of North 
 
