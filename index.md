@@ -43,7 +43,7 @@ _ payam Noor University of North
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Hanicrafts Minister.
++ I am working in Caltural,Turism & Handicrafts Minister.
 
 
 
