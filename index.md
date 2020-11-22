@@ -1,6 +1,6 @@
 
 ### Anahita Taheri
-<a/></a>
+
 
 ### Personal informations
 
@@ -45,7 +45,7 @@ _ payam Noor University of North
 ---
 + I am working in Caltural,Turism & Hanicrafts Minister.
 
-###
+
 
 
 --- 
